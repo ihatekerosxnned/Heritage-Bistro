@@ -60,7 +60,7 @@ if (isset($_POST['btn'])) {
                                         <img src="./img/serving-dish.png"/>
                                     </div>
                                     <div class="">
-                                        <h>All Menu</h>
+                                        <h>All Menus</h>
                                         <?php
                                         $allMenuCount = count($MenuList);
                                         echo "<p class='numberofitems'>$allMenuCount items</p>";
